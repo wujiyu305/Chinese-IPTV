@@ -7,11 +7,11 @@ Chinese CCTV List
 If IPTV app supports remote path , such as PVR IPTV simple client in KODI , you can use both files here , playlist.m3u and guide.xml . Time in guide.xml is UTC+8 . You can change EPG time shift number according to your time zone .
 
 Channel list:
-https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
+https://raw.githubusercontent.com/wujiyu30/Chinese-IPTV/master/TV-IPV4.m3u
 
 Guide file (EPG):
 http://epg.51zmt.top:8000/e.xml
-https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml
+https://raw.githubusercontent.com/wujiyu305/Chinese-IPTV/master/guide.xml
 
 
 guide.xml will be refreshed every 6 hours .
