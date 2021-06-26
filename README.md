@@ -10,6 +10,8 @@ Channel list:
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 
 Guide file (EPG):
+http://epg.51zmt.top:8000/e.xml
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/guide.xml
+
 
 guide.xml will be refreshed every 6 hours .
