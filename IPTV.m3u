@@ -85,8 +85,6 @@ http://183.207.248.71/cntv/live1/n-guangxistv/n-guangxistv
 http://183.207.248.71/cntv/live1/n-xjtv1/n-xjtv1
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="地方",甘肃卫视
 http://183.207.248.71/cntv/live1/n-gansustv/n-gansustv
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="地方",宁夏卫视
-http://183.207.248.71/cntv/live1/n-ningxiastv/n-ningxiastv
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="地方",西藏卫视
 http://183.207.248.71/cntv/live1/n-xizangstv/n-xizangstv
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="地方",贵州卫视
